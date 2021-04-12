@@ -1,0 +1,15 @@
+%buttonAttributes {
+    padding: 10px 15px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom:2em;
+    &:hover{
+        background: none;
+        border: 1px solid white;
+        color: white;
+    }
+}
+
+//set color based on color container
+
